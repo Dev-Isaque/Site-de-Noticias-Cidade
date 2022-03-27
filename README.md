@@ -24,6 +24,8 @@ https://pixabay.com/pt/photos/search/
 ---
 ## Tipografia
 
+https://fonts.google.com/
+
 ---
 ## Links externos utilizados
 

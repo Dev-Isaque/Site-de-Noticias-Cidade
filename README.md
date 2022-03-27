@@ -1,7 +1,7 @@
 # Site de Notícias de uma cidade
 ---
 
-Neste projeto estarei realizando um exercicio pratico do curso de Web Designer, na qual consiste em criar um site com algumas informações fictícias com um designer interessante sendo possivel utilizar apenas HTML5 & CSS3.<br/>
+Neste projeto estarei realizando um exercicio pratico do curso de Web Designer, na qual consiste em criar um site de noticias com algumas informações fictícias com um designer interessante utilizando apenas HTML5 & CSS3.<br/>
 ---
 Curso: Desenvolvimento Web<br/>
 Unidade de Ensino: Udemy<br/>

@@ -9,6 +9,18 @@ Neste projeto estarei realizando um exercicio pratico do curso de Web Designer, 
 ---
 ## Imagens
 
+https://www.shopify.com.br/burst/imagens-sem-direitos-autorais
+
+https://www.flaticon.com/br/icones-gratis/redes-sociais
+
+https://pixabay.com/pt/
+
+https://icon-icons.com/pt/
+
+https://www.iconfinder.com/
+
+https://pixabay.com/pt/photos/search/
+
 ---
 ## Tipografia
 
